@@ -1,0 +1,8 @@
+All assigned problems taken from Introduction to the Design and Analysis of Algorithms (3rd Edition) by Anany Levitin
+
+Section 9.2 (Pages 331-333): 1b, 3, 10, 12
+Section 9.3 (Pages 337-338): 1, 2b, 7, 8, 10
+Section 11.1 (Pages 393-394): 2, 3a, 3b, 4
+Section 11.2 (Pages 399-401): 2, 3a
+Section 11.3 (pages 409-411): 3a, 4a, 8
+Section 12.1 (pages 430-432): 1, 6
